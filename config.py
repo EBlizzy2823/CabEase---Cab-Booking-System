@@ -6,7 +6,7 @@
 # ── Database ──────────────────────────────────────────────────
 DB_HOST     = "localhost"
 DB_USER     = "root"
-DB_PASSWORD = "huaweirealme@2732"          # ← Change this
+DB_PASSWORD = "Change this"          # ← Change this
 DB_NAME     = "taxi_booking_db"
 
 # ── Application ───────────────────────────────────────────────
